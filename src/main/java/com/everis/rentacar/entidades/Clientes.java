@@ -20,4 +20,9 @@ public class Clientes implements Serializable {
     private String rut;
     private String sexo;
     private String edad;
+    private String permiso;
+    private String fecha_incorporacion;
+    private String sueldo_base;
+    private String bono_servicio;
+
 }
